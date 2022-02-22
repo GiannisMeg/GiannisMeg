@@ -1,5 +1,5 @@
-<!-- ![ colorful Tech ](chain.gif) [](chain.gif) -->
-<img src="https://miro.medium.com/max/1400/1*jvT5REAJKM3YJiApuRvgXg.gif" width='880'>
+
+<img src="https://miro.medium.com/max/1400/1*jvT5REAJKM3YJiApuRvgXg.gif" width='900'>
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;">
 
 

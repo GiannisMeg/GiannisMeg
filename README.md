@@ -11,7 +11,7 @@ Hereby my [Portfolio ®](https://giannismegoulsd.netlify.app/)
 -  🌱 Knowledge is power and i like to get stronger every day!
 -  👯 Always looking to collaborate and make connections with wise people
 -  📫 How to reach me: megoulas2@hotmail.com
--  ⚡ Let's connect – [LinkedIn](https://https://www.linkedin.com/in/giannis-megoulas-aa76b266/)
+-  ⚡ Let's connect – [LinkedIn](https://www.linkedin.com/in/giannis-megoulas-aa76b266/)
 
 ---
 
@@ -34,6 +34,6 @@ Hereby my [Portfolio ®](https://giannismegoulsd.netlify.app/)
 
 ### My GitHub Stats
 
-![Vasileios GitHub stats](https://github-readme-stats.vercel.app/api?username=VGiannisMeg&show_icons=true&theme=radical)
+![Vasileios GitHub stats](https://github-readme-stats.vercel.app/api?username=GiannisMeg&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiannisMeg&layout=compact&show_icons=true&theme=radical)

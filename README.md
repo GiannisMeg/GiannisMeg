@@ -1,5 +1,5 @@
 <!-- ![ colorful Tech ](chain.gif) [](chain.gif) -->
-<img src="https://media.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif" width='600'>
+<img src="https://media.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif" width='880'>
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;">
 
 

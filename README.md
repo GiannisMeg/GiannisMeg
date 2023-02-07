@@ -36,6 +36,6 @@ Hereby my [Portfolio ®](https://giannismegoulsd.netlify.app/)
 
 ### My GitHub Stats
 
-![Vasileios GitHub stats](https://github-readme-stats.vercel.app/api?username=GiannisMeg&show_icons=true&theme=radical)
+![GiannisMeg Github stats](https://github-readme-stats.vercel.app/api?username=GiannisMeg&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiannisMeg&layout=compact&show_icons=true&theme=radical)

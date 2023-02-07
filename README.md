@@ -9,8 +9,6 @@
 
 My name is Giannis Megkoulas, passionate Full Stack Developer 🏠 in Amsterdam! Creating new apps is the future and i want to be part of it, doing my best to mastery that. I really enjoy learning languages and frameworks.
 
-Hereby my [Portfolio ®](https://giannismegoulsd.netlify.app/)
-
 -  🌱 Knowledge is power and i like to get stronger every day!
 -  👯 Always looking to collaborate and make connections with wise people
 -  📫 How to reach me: megoulas2@hotmail.com
@@ -35,7 +33,3 @@ Hereby my [Portfolio ®](https://giannismegoulsd.netlify.app/)
 ---
 
 ### My GitHub Stats
-
-![GiannisMeg Github stats](https://github-readme-stats.vercel.app/api?username=GiannisMeg&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiannisMeg&layout=compact&show_icons=true&theme=radical)
